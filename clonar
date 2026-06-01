@@ -1,1 +1,4 @@
 git clone https://github.com/RTA-mc/Patrones-de-dise-o.git
+para ejecutar
+cd Patrones-de-dise-o
+./mvnw spring-boot:run
